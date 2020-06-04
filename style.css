@@ -4,7 +4,6 @@
 		font-family:sans-serif;
 		background:url(linkedin-network-image.png) no-repeat;
 		background-size:cover;
-		<metaname="viewport" content="width=device-width, initial-scale=1.0">
 	}
 	.login-box{
 		width:280px;
@@ -35,7 +34,7 @@
 	}
 	.btn{
 		width:100%
-		background:none;
+		background none;
 		border:2px solid #333;
 		color:black;
 		padding:5px;
